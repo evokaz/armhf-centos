@@ -12,7 +12,10 @@ Follow the instructions at [https://docs.docker.com/](https://docs.docker.com/) 
 ### Clone the armhf-centos repository
 `git clone https://github.com/evokaz/armhf-centos.git`
 
-Simply run to build the image and run the container:
+### Build the image
+`docker build -t evokaz/armhf-centos .`
+
+### Create and running the container
 ```
 docker run -t -i evokaz/armhf-centos
 ```

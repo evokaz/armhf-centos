@@ -23,6 +23,4 @@ Follow the instructions at [https://docs.docker.com/](https://docs.docker.com/) 
 `docker build -t evokaz/armhf-centos .`
 
 ### Create and running the container
-```
-docker run -t -i evokaz/armhf-centos
-```
+`docker run -t -i evokaz/armhf-centos`

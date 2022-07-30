@@ -1,3 +1,5 @@
+> ### ***This repository is obsolete and not maintained anymore***
+
 # Docker CentOS latest armhf Build
 
 A simple image containing the latest CentOS Base image for the Raspberry Pi extracted from [http://mirror.centos.org/altarch/7/isos/armhfp/CentOS-Userland-7-armv7hl-Minimal-1511-RaspberryPi2.img.xz](http://mirror.centos.org/altarch/7/isos/armhfp/CentOS-Userland-7-armv7hl-Minimal-1511-RaspberryPi2.img.xz)
